@@ -9,9 +9,10 @@
 <h1 align="center">🙏 Namaste, I'm Saket!</h1>
 
 <div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=agrSaket&show_icons=true&theme=radical" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=agrSaket&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=agrSaket&show_icons=true&theme=radical" height="200"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrSaket&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200"/>
 </div>
+
 
 <h2 align="left">I code with</h2>
 
@@ -54,6 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="47" width="91" alt="matlab logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" height="47" width="91" alt="labview logo"  />
 </div>
+
 
 <h2 align="left">🔥   My Stats :</h2>
 <div align="center">
