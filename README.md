@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="47" width="91" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="47" width="91" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="47" width="91" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="47" width="91" alt="materialui logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="47" width="91" alt="materialui logo"  /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="47" width="91" alt="redux logo"  />
   
   <h3 align="left">💾 Databases</h3>
@@ -45,8 +45,8 @@
   <h3 align="left">🗄️ Servers</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="47" width="91" alt="nginx logo"  />
   
-  <h3 align="left">📂 Cloud Storage</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="47" width="91" alt="googlecloud logo"  />
+  <!-- <h3 align="left">📂 Cloud Storage</h3> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="47" width="91" alt="googlecloud logo"  /> -->
   
   <h3 align="left">💻 IDEs/Editors</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="47" width="91" alt="vscode logo"  />
