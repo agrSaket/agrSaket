@@ -32,10 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="47" width="91" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="47" width="91" alt="tailwindcss logo"  />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="47" width="91" alt="materialui logo"  /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="47" width="91" alt="redux logo"  />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="47" width="91" alt="redux logo"  />-->
   
   <h3 align="left">💾 Databases</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="47" width="91" alt="firebase logo"  />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="47" width="91" alt="firebase logo"  />-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="47" width="91" alt="mongodb logo"  />
   
   <h3 align="left">🕓 Version Control</h3>
